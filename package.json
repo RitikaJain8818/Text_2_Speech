@@ -1,8 +1,9 @@
 {
-  "name": "text_2_speech",
+  "name": "text_2_speech_",
   "version": "1.0.0",
-  "description": "Text_2_Speech",
+  "description": "Text_2_Speech_",
   "main": "index.js",
+  "homepage": "https://ritikajain8818.github.io/Text_2_Speech_/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
